@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\RavalElevators.csproj": {}
+    "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\RavalElevators.csproj": {}
   },
   "projects": {
-    "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\RavalElevators.csproj": {
+    "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\RavalElevators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\RavalElevators.csproj",
+        "projectUniqueName": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\RavalElevators.csproj",
         "projectName": "RavalElevators",
-        "projectPath": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\RavalElevators.csproj",
+        "projectPath": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\RavalElevators.csproj",
         "packagesPath": "C:\\Users\\aliel\\.nuget\\packages\\",
-        "outputPath": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\obj\\",
+        "outputPath": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aliel\\AppData\\Roaming\\NuGet\\NuGet.Config",

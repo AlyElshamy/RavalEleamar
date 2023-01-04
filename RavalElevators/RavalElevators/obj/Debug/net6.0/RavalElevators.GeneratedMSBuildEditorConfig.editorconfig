@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RavalElevators
 build_property.RootNamespace = RavalElevators
-build_property.ProjectDir = D:\RAVAL-SA\new raval\Raval Project\RavalElevators\RavalElevators\
+build_property.ProjectDir = D:\RAVAL-SA\new raval\Raval Eleamar\RavalElevators\RavalElevators\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\RAVAL-SA\new raval\Raval Project\RavalElevators\RavalElevators
+build_property.MSBuildProjectDirectory = D:\RAVAL-SA\new raval\Raval Eleamar\RavalElevators\RavalElevators
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/RAVAL-SA/new raval/Raval Project/RavalElevators/RavalElevators/Areas/Pages/Products.cshtml]
+[D:/RAVAL-SA/new raval/Raval Eleamar/RavalElevators/RavalElevators/Areas/Pages/Products.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGFnZXNcUHJvZHVjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/RAVAL-SA/new raval/Raval Project/RavalElevators/RavalElevators/Pages/Error.cshtml]
+[D:/RAVAL-SA/new raval/Raval Eleamar/RavalElevators/RavalElevators/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/RAVAL-SA/new raval/Raval Project/RavalElevators/RavalElevators/Pages/Index.cshtml]
+[D:/RAVAL-SA/new raval/Raval Eleamar/RavalElevators/RavalElevators/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/RAVAL-SA/new raval/Raval Project/RavalElevators/RavalElevators/Pages/Privacy.cshtml]
+[D:/RAVAL-SA/new raval/Raval Eleamar/RavalElevators/RavalElevators/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/RAVAL-SA/new raval/Raval Project/RavalElevators/RavalElevators/Pages/Shared/Footer.cshtml]
+[D:/RAVAL-SA/new raval/Raval Eleamar/RavalElevators/RavalElevators/Pages/Shared/Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEZvb3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/RAVAL-SA/new raval/Raval Project/RavalElevators/RavalElevators/Pages/Shared/Header.cshtml]
+[D:/RAVAL-SA/new raval/Raval Eleamar/RavalElevators/RavalElevators/Pages/Shared/Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEhlYWRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/RAVAL-SA/new raval/Raval Project/RavalElevators/RavalElevators/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/RAVAL-SA/new raval/Raval Eleamar/RavalElevators/RavalElevators/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/RAVAL-SA/new raval/Raval Project/RavalElevators/RavalElevators/Pages/_ViewImports.cshtml]
+[D:/RAVAL-SA/new raval/Raval Eleamar/RavalElevators/RavalElevators/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/RAVAL-SA/new raval/Raval Project/RavalElevators/RavalElevators/Pages/_ViewStart.cshtml]
+[D:/RAVAL-SA/new raval/Raval Eleamar/RavalElevators/RavalElevators/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/RAVAL-SA/new raval/Raval Project/RavalElevators/RavalElevators/Pages/Shared/_Layout.cshtml]
+[D:/RAVAL-SA/new raval/Raval Eleamar/RavalElevators/RavalElevators/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-x3vj6wqd3z
