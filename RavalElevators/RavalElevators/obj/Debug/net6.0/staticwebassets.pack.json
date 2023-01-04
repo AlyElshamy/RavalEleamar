@@ -1,0 +1,589 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RavalElevators.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RavalElevators.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\css\\Produst.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\Produst.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\css\\templatemo-kind-heart-charity.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\templatemo-kind-heart-charity.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\fonts\\Metropolis\\.DS_Store",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\Metropolis\\.DS_Store"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\fonts\\Metropolis\\Metropolis-Bold.woff",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\Metropolis\\Metropolis-Bold.woff"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\fonts\\Metropolis\\Metropolis-Bold.woff2",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\Metropolis\\Metropolis-Bold.woff2"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\fonts\\Metropolis\\Metropolis-Light.woff",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\Metropolis\\Metropolis-Light.woff"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\fonts\\Metropolis\\Metropolis-Light.woff2",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\Metropolis\\Metropolis-Light.woff2"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\fonts\\Metropolis\\Metropolis-Regular.woff",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\Metropolis\\Metropolis-Regular.woff"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\fonts\\Metropolis\\Metropolis-Regular.woff2",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\Metropolis\\Metropolis-Regular.woff2"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff2"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\avatar\\portrait-beautiful-young-woman-standing-grey-wall.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\avatar\\portrait-beautiful-young-woman-standing-grey-wall.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\avatar\\portrait-young-beautiful-woman-gesticulating.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\avatar\\portrait-young-beautiful-woman-gesticulating.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\avatar\\portrait-young-redhead-bearded-male.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\avatar\\portrait-young-redhead-bearded-male.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\avatar\\pretty-blonde-woman-wearing-white-t-shirt.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\avatar\\pretty-blonde-woman-wearing-white-t-shirt.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\avatar\\studio-portrait-emotional-happy-funny.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\avatar\\studio-portrait-emotional-happy-funny.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\causes\\african-woman-pouring-water-recipient-outdoors.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\causes\\african-woman-pouring-water-recipient-outdoors.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\causes\\group-african-kids-paying-attention-class.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\causes\\group-african-kids-paying-attention-class.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\causes\\poor-child-landfill-looks-forward-with-hope.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\causes\\poor-child-landfill-looks-forward-with-hope.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\different-people-doing-volunteer-work.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\different-people-doing-volunteer-work.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\group-people-volunteering-foodbank-poor-people.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\group-people-volunteering-foodbank-poor-people.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\icons\\hands.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\icons\\hands.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\icons\\heart.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\icons\\heart.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\icons\\receive.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\icons\\receive.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\icons\\scholarship.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\icons\\scholarship.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\news\\africa-humanitarian-aid-doctor.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\news\\africa-humanitarian-aid-doctor.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\news\\close-up-happy-people-working-together.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\news\\close-up-happy-people-working-together.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\news\\close-up-volunteer-oganizing-stuff-donation.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\news\\close-up-volunteer-oganizing-stuff-donation.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\news\\medium-shot-people-collecting-foodstuff.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\news\\medium-shot-people-collecting-foodstuff.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\news\\medium-shot-volunteers-with-clothing-donations.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\news\\medium-shot-volunteers-with-clothing-donations.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\portrait-volunteer-who-organized-donations-charity.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\portrait-volunteer-who-organized-donations-charity.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\slide\\medium-shot-people-collecting-donations.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\slide\\medium-shot-people-collecting-donations.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\slide\\volunteer-helping-with-donation-box.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\slide\\volunteer-helping-with-donation-box.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\slide\\volunteer-selecting-organizing-clothes-donations-charity.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\slide\\volunteer-selecting-organizing-clothes-donations-charity.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\images\\smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\js\\click-scroll.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\click-scroll.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\js\\counter.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\counter.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\1a3c77d8-d797-4a38-be9a-55c78200c059.jfif",
+      "PackagePath": "staticwebassets\\Images\\1a3c77d8-d797-4a38-be9a-55c78200c059.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\2610b269-e400-4f31-b636-80dfad5e8e5f.jfif",
+      "PackagePath": "staticwebassets\\Images\\2610b269-e400-4f31-b636-80dfad5e8e5f.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\3444e753-cd88-4016-b830-306812a441d7.jfif",
+      "PackagePath": "staticwebassets\\Images\\3444e753-cd88-4016-b830-306812a441d7.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\38514bd1-d6f7-460d-9027-89528ff803a7.jfif",
+      "PackagePath": "staticwebassets\\Images\\38514bd1-d6f7-460d-9027-89528ff803a7.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\3e5485df-01d6-423f-ac62-ecd09579faf0.jfif",
+      "PackagePath": "staticwebassets\\Images\\3e5485df-01d6-423f-ac62-ecd09579faf0.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\4f5aaaac-d248-4028-8d84-6f2b5a53d061.jfif",
+      "PackagePath": "staticwebassets\\Images\\4f5aaaac-d248-4028-8d84-6f2b5a53d061.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\5b824479-cf74-427b-9577-c8a23f895ca4.jfif",
+      "PackagePath": "staticwebassets\\Images\\5b824479-cf74-427b-9577-c8a23f895ca4.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\5e358a17-0f9a-4e94-b366-c6ba444d164f.jfif",
+      "PackagePath": "staticwebassets\\Images\\5e358a17-0f9a-4e94-b366-c6ba444d164f.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\6cde1e99-4c4b-4e40-943f-2ec52c4898f4.jfif",
+      "PackagePath": "staticwebassets\\Images\\6cde1e99-4c4b-4e40-943f-2ec52c4898f4.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\6dde73b3-0861-4987-85aa-25d8418135f1.jfif",
+      "PackagePath": "staticwebassets\\Images\\6dde73b3-0861-4987-85aa-25d8418135f1.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\860fda59-7676-4e00-8d82-997983e70bdf.jfif",
+      "PackagePath": "staticwebassets\\Images\\860fda59-7676-4e00-8d82-997983e70bdf.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\Lift-PNG-Pic.png",
+      "PackagePath": "staticwebassets\\Images\\Lift-PNG-Pic.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\b55a9577-e15c-4eb2-b9df-2de1db605f74.jfif",
+      "PackagePath": "staticwebassets\\Images\\b55a9577-e15c-4eb2-b9df-2de1db605f74.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\be28b647-4128-47cb-a85c-98005fb85431.jfif",
+      "PackagePath": "staticwebassets\\Images\\be28b647-4128-47cb-a85c-98005fb85431.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\blueprint.png",
+      "PackagePath": "staticwebassets\\Images\\blueprint.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\costumer (1).png",
+      "PackagePath": "staticwebassets\\Images\\costumer (1).png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\costumer.png",
+      "PackagePath": "staticwebassets\\Images\\costumer.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\d76249dc-7dc4-4acb-8c18-ede28daafdc3.jfif",
+      "PackagePath": "staticwebassets\\Images\\d76249dc-7dc4-4acb-8c18-ede28daafdc3.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\de4e47be-b124-4bd1-ba9e-09e14d59f538.jfif",
+      "PackagePath": "staticwebassets\\Images\\de4e47be-b124-4bd1-ba9e-09e14d59f538.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\easy-installation (1).png",
+      "PackagePath": "staticwebassets\\Images\\easy-installation (1).png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\easy-installation (2).png",
+      "PackagePath": "staticwebassets\\Images\\easy-installation (2).png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\easy-installation.png",
+      "PackagePath": "staticwebassets\\Images\\easy-installation.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\elevator-buttons.png",
+      "PackagePath": "staticwebassets\\Images\\elevator-buttons.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\f58c0f4b-4e72-4e68-b5c7-abb37d8ae306.jfif",
+      "PackagePath": "staticwebassets\\Images\\f58c0f4b-4e72-4e68-b5c7-abb37d8ae306.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\fc6f6cec-21d4-4911-a4cb-8f8cad3e833f.jfif",
+      "PackagePath": "staticwebassets\\Images\\fc6f6cec-21d4-4911-a4cb-8f8cad3e833f.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\fc745a37-9786-4201-83da-1fca9caad7f7.jfif",
+      "PackagePath": "staticwebassets\\Images\\fc745a37-9786-4201-83da-1fca9caad7f7.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\pngwing.com (1).png",
+      "PackagePath": "staticwebassets\\Images\\pngwing.com (1).png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\pngwing.com.png",
+      "PackagePath": "staticwebassets\\Images\\pngwing.com.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\pros-and-cons.png",
+      "PackagePath": "staticwebassets\\Images\\pros-and-cons.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\spare-parts.png",
+      "PackagePath": "staticwebassets\\Images\\spare-parts.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\validation.png",
+      "PackagePath": "staticwebassets\\Images\\validation.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\validity.png",
+      "PackagePath": "staticwebassets\\Images\\validity.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\wrench.png",
+      "PackagePath": "staticwebassets\\Images\\wrench.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\—Pngtree—cartoon blue transparent elevator element_4079590.png",
+      "PackagePath": "staticwebassets\\Images\\—Pngtree—cartoon blue transparent elevator element_4079590.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\Images\\—Pngtree—two men waiting for the_5469017.png",
+      "PackagePath": "staticwebassets\\Images\\—Pngtree—two men waiting for the_5469017.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Project\\RavalElevators\\RavalElevators\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RavalElevators.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RavalElevators.props",
+      "PackagePath": "build\\RavalElevators.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RavalElevators.props",
+      "PackagePath": "buildMultiTargeting\\RavalElevators.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RavalElevators.props",
+      "PackagePath": "buildTransitive\\RavalElevators.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
