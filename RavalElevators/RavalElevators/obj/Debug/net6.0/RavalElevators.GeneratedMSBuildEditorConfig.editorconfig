@@ -16,8 +16,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\RAVAL-SA\new raval\Raval Eleamar\RavalElevators\RavalElevators
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/RAVAL-SA/new raval/Raval Eleamar/RavalElevators/RavalElevators/Areas/Pages/Products.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGFnZXNcUHJvZHVjdHMuY3NodG1s
+[D:/RAVAL-SA/new raval/Raval Eleamar/RavalElevators/RavalElevators/Areas/Site/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2l0ZVxQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RAVAL-SA/new raval/Raval Eleamar/RavalElevators/RavalElevators/Areas/Site/Pages/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2l0ZVxQYWdlc1xQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RAVAL-SA/new raval/Raval Eleamar/RavalElevators/RavalElevators/Areas/Site/Pages/SingleProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2l0ZVxQYWdlc1xTaW5nbGVQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/RAVAL-SA/new raval/Raval Eleamar/RavalElevators/RavalElevators/Pages/Error.cshtml]

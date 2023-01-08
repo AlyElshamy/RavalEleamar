@@ -9,12 +9,20 @@
       "PackagePath": "staticwebassets\\Assets\\css\\Produst.css"
     },
     {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\css\\StyleSheet.scss",
+      "PackagePath": "staticwebassets\\Assets\\css\\StyleSheet.scss"
+    },
+    {
       "Id": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\css\\bootstrap-icons.css",
       "PackagePath": "staticwebassets\\Assets\\css\\bootstrap-icons.css"
     },
     {
       "Id": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\Assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\css\\imagesstyle.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\imagesstyle.css"
     },
     {
       "Id": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\css\\templatemo-kind-heart-charity.css",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wsaA1T4Ew2N2yU1u//8czOMIBqCez5WDqRiTprXAfx4=",
+  "Hash": "InGVOLUa838sCxIqhYEX3dT7g23hsHy9gZmHA9YRCYs=",
   "Source": "RavalElevators",
   "BasePath": "_content/RavalElevators",
   "Mode": "Default",
@@ -85,6 +85,23 @@
       "OriginalItemSpec": "wwwroot\\Assets\\css\\bootstrap-icons.css"
     },
     {
+      "Identity": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\css\\imagesstyle.css",
+      "SourceId": "RavalElevators",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\",
+      "BasePath": "_content/RavalElevators",
+      "RelativePath": "Assets/css/imagesstyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\css\\imagesstyle.css"
+    },
+    {
       "Identity": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\css\\Produst.css",
       "SourceId": "RavalElevators",
       "SourceType": "Discovered",
@@ -100,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\css\\Produst.css"
+    },
+    {
+      "Identity": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\css\\StyleSheet.scss",
+      "SourceId": "RavalElevators",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\",
+      "BasePath": "_content/RavalElevators",
+      "RelativePath": "Assets/css/StyleSheet.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\css\\StyleSheet.scss"
     },
     {
       "Identity": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\css\\templatemo-kind-heart-charity.css",

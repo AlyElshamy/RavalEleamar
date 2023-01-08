@@ -60,3 +60,10 @@ D:\RAVAL-SA\new raval\Raval Eleamar\RavalElevators\RavalElevators\obj\Debug\net6
 D:\RAVAL-SA\new raval\Raval Eleamar\RavalElevators\RavalElevators\obj\Debug\net6.0\RavalElevators.pdb
 D:\RAVAL-SA\new raval\Raval Eleamar\RavalElevators\RavalElevators\obj\Debug\net6.0\RavalElevators.genruntimeconfig.cache
 D:\RAVAL-SA\new raval\Raval Eleamar\RavalElevators\RavalElevators\obj\Debug\net6.0\ref\RavalElevators.dll
+D:\RAVAL-SA\new raval\Raval Eleamar\RavalElevators\RavalElevators\bin\Debug\net6.0\MailKit.dll
+D:\RAVAL-SA\new raval\Raval Eleamar\RavalElevators\RavalElevators\bin\Debug\net6.0\MimeKit.dll
+D:\RAVAL-SA\new raval\Raval Eleamar\RavalElevators\RavalElevators\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\RAVAL-SA\new raval\Raval Eleamar\RavalElevators\RavalElevators\obj\Debug\net6.0\RavalElevators.csproj.CopyComplete
+D:\RAVAL-SA\new raval\Raval Eleamar\RavalElevators\RavalElevators\bin\Debug\net6.0\libman.json
+D:\RAVAL-SA\new raval\Raval Eleamar\RavalElevators\RavalElevators\bin\Debug\net6.0\package.json
+D:\RAVAL-SA\new raval\Raval Eleamar\RavalElevators\RavalElevators\bin\Debug\net6.0\package-lock.json

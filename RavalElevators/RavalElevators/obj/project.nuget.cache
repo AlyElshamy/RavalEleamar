@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "QhkOBJJOt4CWxPQdlMGpg0bskmQCl/3AluuPDdduUqkLnwy0oTzi5oQ5QDk1Hz7mvx0dcSuFk+OrACMz1A9DHw==",
+  "dgSpecHash": "JwyLqjUYtK+772sc8uej1NQIcMBXD/MXX2KrLrmR9lODsGsds86ERUEvesyj/Fu3eofZATgnEyi+YXHTY0iLIg==",
   "success": true,
   "projectFilePath": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\RavalElevators.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aliel\\.nuget\\packages\\mailkit\\3.4.3\\mailkit.3.4.3.nupkg.sha512",
+    "C:\\Users\\aliel\\.nuget\\packages\\mimekit\\3.4.3\\mimekit.3.4.3.nupkg.sha512",
+    "C:\\Users\\aliel\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\aliel\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\aliel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\aliel\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.0\\system.security.cryptography.pkcs.6.0.0.nupkg.sha512",
+    "C:\\Users\\aliel\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
