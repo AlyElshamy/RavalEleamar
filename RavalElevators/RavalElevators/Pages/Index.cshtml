@@ -212,6 +212,9 @@
     </div>
 </section>
 *@
+
+
+
 <section class="about-section section-padding">
     <div class="container">
         <div class="row">
@@ -422,16 +425,17 @@
         <div class="divparallex">
             @*<img src="~/Assets/images/slide/volunteer-helping-with-donation-box.jpg" class="paralleximage" >*@
         </div>
-        <div class="centertext" style="z-index:3;position:absolute">
+       
+        <div class="row" style="margin-bottom:4rem">
+            <div class="centertext col-lg-12 col-md-12 col-sm-12" >
 
-            <link href="https://fonts.googleapis.com/css?family=Roboto:200,100,400" rel="stylesheet" type="text/css" />
-            <h1 class="underline" id="text"></h1>
-            
-        </div>
-        <div class="row">
-            <div class="col-lg-4 col-md-6 col-sm-12">
+                <link href="https://fonts.googleapis.com/css?family=Roboto:200,100,400" rel="stylesheet" type="text/css" />
+                <h1 class="underline" id="text"></h1>
+
+            </div>
+            <div class="col-lg-4 col-md-12 col-sm-12">
                 <div class="leftbuttext">
-                    <img style="max-width:23%" src="~/images/system-update.png" />
+                    <img style="max-width:27%" src="~/images/system-update.png" />
                     <p class="paragraphstyle" >
                         التحديث والتجديد
                     </p>
@@ -440,7 +444,7 @@
                     </p>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="col-lg-4 col-md-12 col-sm-12">
                 <div class="centerbuttext">
                     <img style="max-width:30%" src="~/images/mechanic.png" />
                     <p class="paragraphstyle">
@@ -452,9 +456,9 @@
                     </p>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="col-lg-4 col-md-12 col-sm-12">
                 <div class="rightbuttext">
-                    <img style="max-width:38%" src="~/images/easy-installation (3).png" />
+                    <img style="max-width:27%" src="~/images/easy-installation (3).png" />
                     <p class="paragraphstyle">
                         توريد وتركيب 
                     </p>
@@ -528,6 +532,7 @@
             border-right: 0.15em solid orange;
             animation: blink 0.75s step-end infinite;
             width: max-content;
+            margin-inline: auto;
         }
 
         @@keyframes blink {
@@ -650,32 +655,29 @@ top:-140px
         }
 
         .leftbuttext {
-            position: absolute;
-            top: 70%;
-            left: 18%;
-            transform: translate(-50%, -50%);
+            /*position: absolute;*/
+           
+            transform: translate(0%, 27%);
         }
 
         .centerbuttext {
-            position: absolute;
-            top: 60%;
-            left: 48%;
-            transform: translate(-50%, -50%);
+            /*position: absolute;*/
+         
+            transform: translate(0%, 16%);
         }
 
         .rightbuttext {
-            position: absolute;
-            top:70%;
-            left: 80%;
-            transform: translate(-50%, -50%);
+            /*position: absolute;*/
+          
+            transform: translate(0%, 27%);
         }
 
         .centertext {
             color: #ffad41;
-            position: absolute;
+           /* position: absolute;
             top: 15%;
-            left: 50%;
-            transform: translate(-50%, -50%);
+            left: 33%;*/
+            /*transform: translate(0%, -50%);*/
         }
     </style>
 </section>
@@ -734,51 +736,8 @@ top:-140px
 </section>
 *@
 
-<h1>The Purest of Doggos</h1>
-<div class="grid-container">
-    <div>
-        <img class='grid-item grid-item-1' src='https://images.unsplash.com/photo-1544568100-847a948585b9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-        <p>"I'm so happy today!"</p>
-    </div>
-    <div>
-        <img class='grid-item grid-item-2' src='https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-        <p>"I see those nugs."</p>
-    </div>
-    <div>
-        <img class='grid-item grid-item-3' src='https://images.unsplash.com/photo-1510771463146-e89e6e86560e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-        <p>"I love you so much!"</p>
-    </div>
-    <div>
-        <img class='grid-item grid-item-4' src='https://images.unsplash.com/photo-1507146426996-ef05306b995a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-        <p>"I'm the baby of the house!"</p>
-    </div>
-    <div>
-        <img class='grid-item grid-item-5' src='https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-        <p>"Are you gunna throw the ball?"</p>
-    </div>
-    <div>
-        <img class='grid-item grid-item-6' src='https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-        <p>"C'mon friend!"</p>
-    </div>
-    <div>
-        <img class='grid-item grid-item-7' src='https://images.unsplash.com/photo-1552053831-71594a27632d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-        <p>"A rose for mommy!"</p>
-    </div>
-    <div>
-        <img class='grid-item grid-item-8' src='https://images.unsplash.com/photo-1518717758536-85ae29035b6d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-        <p>"You gunna finish that?"</p>
-    </div>
-    <div>
-        <img class='grid-item grid-item-9' src='https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-        <p>"We can't afford a cat!"</p>
-    </div>
-    <div>
-        <img class='grid-item grid-item-10' src='https://images.unsplash.com/photo-1504595403659-9088ce801e29?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-        <p>"Dis my fren!"</p>
-    </div>
-</div>
 
-<section class="news-section section-padding" id="section_5">
+@*<section class="news-section section-padding" id="section_5">
     <div class="container">
         <div class="row">
 
@@ -1022,7 +981,7 @@ top:-140px
         </div>
     </div>
 </section>
-
+*@
 
 <section class="testimonial-section section-padding section-bg">
     <div class="container">

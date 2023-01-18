@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\Assets\\css\\Produst.css"
     },
     {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\css\\Sty.scss",
+      "PackagePath": "staticwebassets\\Assets\\css\\Sty.scss"
+    },
+    {
       "Id": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Assets\\css\\StyleSheet.scss",
       "PackagePath": "staticwebassets\\Assets\\css\\StyleSheet.scss"
     },
@@ -247,6 +251,26 @@
     {
       "Id": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Images\\Lift-PNG-Pic.png",
       "PackagePath": "staticwebassets\\Images\\Lift-PNG-Pic.png"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Images\\Product\\1a3c77d8-d797-4a38-be9a-55c78200c059.jfif",
+      "PackagePath": "staticwebassets\\Images\\Product\\1a3c77d8-d797-4a38-be9a-55c78200c059.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Images\\Product\\2610b269-e400-4f31-b636-80dfad5e8e5f.jfif",
+      "PackagePath": "staticwebassets\\Images\\Product\\2610b269-e400-4f31-b636-80dfad5e8e5f.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Images\\Product\\3444e753-cd88-4016-b830-306812a441d7.jfif",
+      "PackagePath": "staticwebassets\\Images\\Product\\3444e753-cd88-4016-b830-306812a441d7.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Images\\Product\\38514bd1-d6f7-460d-9027-89528ff803a7.jfif",
+      "PackagePath": "staticwebassets\\Images\\Product\\38514bd1-d6f7-460d-9027-89528ff803a7.jfif"
+    },
+    {
+      "Id": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Images\\Product\\image-product-1.jfif",
+      "PackagePath": "staticwebassets\\Images\\Product\\image-product-1.jfif"
     },
     {
       "Id": "D:\\RAVAL-SA\\new raval\\Raval Eleamar\\RavalElevators\\RavalElevators\\wwwroot\\Images\\b55a9577-e15c-4eb2-b9df-2de1db605f74.jfif",

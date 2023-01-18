@@ -2,318 +2,108 @@
 @model RavalElevators.Areas.Pages.ProductsModel
 @{
 }
-<link href="~/assets/css/produst.css" rel="stylesheet" />
-<div class="container">
-    <div class="navbar">
-        <div class="logo">
-            <a href="index.html"><img src="https://i.ibb.co/kDVwgwp/logo.png" alt="RedStore" width="125px" /></a>
+<div class="wrapper">
+    <div class="box">
+        <div class="product">
+            <span class="name">T-shirt</span>
+            <span class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
         </div>
-        <nav>
-            <ul id="MenuItems">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="product.html">Products</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
-                <li><a href="account.html">Account</a></li>
-            </ul>
-        </nav>
-        <a href="cart.html"><img src="https://i.ibb.co/PNjjx3y/cart.png" alt="" width="30px" height="30px" /></a>
-        <img src="https://i.ibb.co/6XbqwjD/menu.png" alt="" class="menu-icon" onclick="menutoggle()" />
+    </div>
+    <div class="box">
+        <div class="product">
+            <span class="name">T-shirt</span>
+            <span class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+        </div>
+    </div>
+    <div class="box">
+        <div class="product">
+            <span class="name">T-shirt</span>
+            <span class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+        </div>
     </div>
 </div>
-
-<div class="small-container">
-    <div class="row row-2">
-        <h2>All Products</h2>
-        <select>
-            <option value="">Default Shorting</option>
-            <option value="">Short by price</option>
-            <option value="">Short by popularity</option>
-            <option value="">Short by rating</option>
-            <option value="">Short by sale</option>
-        </select>
-    </div>
-    <div class="row">
-        <div class="col-4">
-            <img src="https://i.ibb.co/47Sk9QL/product-1.jpg" alt="" />
-            <h4>Red Printed T-shirt</h4>
-            <div class="rating">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="far fa-star"></i>
-            </div>
-            <p>₹500.00</p>
-        </div>
-
-        <div class="col-4">
-            <img src="https://i.ibb.co/b7ZVzYr/product-2.jpg" alt="" />
-            <h4>Red Printed T-shirt</h4>
-            <div class="rating">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="far fa-star"></i>
-                <i class="far fa-star"></i>
-            </div>
-            <p>₹500.00</p>
-        </div>
-
-        <div class="col-4">
-            <img src="https://i.ibb.co/KsMVr26/product-3.jpg" alt="" />
-            <h4>Red Printed T-shirt</h4>
-            <div class="rating">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star-half-alt"></i>
-            </div>
-            <p>₹500.00</p>
-        </div>
-
-        <div class="col-4">
-            <img src="https://i.ibb.co/0cMfpcr/product-4.jpg" alt="" />
-            <h4>Red Printed T-shirt</h4>
-            <div class="rating">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="far fa-star"></i>
-                <i class="far fa-star"></i>
-                <i class="far fa-star"></i>
-            </div>
-            <p>₹500.00</p>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-4">
-            <img src="https://i.ibb.co/47Sk9QL/product-1.jpg" alt="" />
-            <h4>Red Printed T-shirt</h4>
-            <div class="rating">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="far fa-star"></i>
-            </div>
-            <p>₹500.00</p>
-        </div>
-
-        <div class="col-4">
-            <img src="https://i.ibb.co/b7ZVzYr/product-2.jpg" alt="" />
-            <h4>Red Printed T-shirt</h4>
-            <div class="rating">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="far fa-star"></i>
-                <i class="far fa-star"></i>
-            </div>
-            <p>₹500.00</p>
-        </div>
-
-        <div class="col-4">
-            <img src="https://i.ibb.co/KsMVr26/product-3.jpg" alt="" />
-            <h4>Red Printed T-shirt</h4>
-            <div class="rating">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star-half-alt"></i>
-            </div>
-            <p>₹500.00</p>
-        </div>
-
-        <div class="col-4">
-            <img src="https://i.ibb.co/0cMfpcr/product-4.jpg" alt="" />
-            <h4>Red Printed T-shirt</h4>
-            <div class="rating">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="far fa-star"></i>
-                <i class="far fa-star"></i>
-                <i class="far fa-star"></i>
-            </div>
-            <p>₹500.00</p>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-4">
-            <img src="https://i.ibb.co/bQ5t8bR/product-5.jpg" alt="" />
-            <h4>Red Printed T-shirt</h4>
-            <div class="rating">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="far fa-star"></i>
-            </div>
-            <p>₹500.00</p>
-        </div>
-
-        <div class="col-4">
-            <img src="https://i.ibb.co/vVpTyBD/product-6.jpg" alt="" />
-            <h4>Red Printed T-shirt</h4>
-            <div class="rating">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="far fa-star"></i>
-                <i class="far fa-star"></i>
-            </div>
-            <p>₹500.00</p>
-        </div>
-
-        <div class="col-4">
-            <img src="https://i.ibb.co/hR5FGwH/product-7.jpg" alt="" />
-            <h4>Red Printed T-shirt</h4>
-            <div class="rating">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star-half-alt"></i>
-            </div>
-            <p>₹500.00</p>
-        </div>
-
-        <div class="col-4">
-            <img src="https://i.ibb.co/QfCgdXZ/product-8.jpg" alt="" />
-            <h4>Red Printed T-shirt</h4>
-            <div class="rating">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="far fa-star"></i>
-                <i class="far fa-star"></i>
-                <i class="far fa-star"></i>
-            </div>
-            <p>₹500.00</p>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-4">
-            <img src="https://i.ibb.co/nw5xZwk/product-9.jpg" alt="" />
-            <h4>Red Printed T-shirt</h4>
-            <div class="rating">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="far fa-star"></i>
-            </div>
-            <p>₹500.00</p>
-        </div>
-
-        <div class="col-4">
-            <img src="https://i.ibb.co/9HCsmjf/product-10.jpg" alt="" />
-            <h4>Red Printed T-shirt</h4>
-            <div class="rating">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="far fa-star"></i>
-                <i class="far fa-star"></i>
-            </div>
-            <p>₹500.00</p>
-        </div>
-
-        <div class="col-4">
-            <img src="https://i.ibb.co/JQ2MBHR/product-11.jpg" alt="" />
-            <h4>Red Printed T-shirt</h4>
-            <div class="rating">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star-half-alt"></i>
-            </div>
-            <p>₹500.00</p>
-        </div>
-
-        <div class="col-4">
-            <img src="https://i.ibb.co/nRZMs6Y/product-12.jpg" alt="" />
-            <h4>Red Printed T-shirt</h4>
-            <div class="rating">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="far fa-star"></i>
-                <i class="far fa-star"></i>
-                <i class="far fa-star"></i>
-            </div>
-            <p>₹500.00</p>
-        </div>
-    </div>
-
-    <div class="page-btn">
-        <span>1</span>
-        <span>2</span>
-        <span>3</span>
-        <span>4</span>
-        <span>&#8594;</span>
-    </div>
-</div>
-
-<!-- Footer -->
-<div class="footer">
-    <div class="container">
-        <div class="row">
-            <div class="footer-col-1">
-                <h3>Download Our App</h3>
-                <p>Download App for Android and iso mobile phone.</p>
-                <div class="app-logo">
-                    <img src="https://i.ibb.co/KbPTYYQ/play-store.png" alt="" />
-                    <img src="https://i.ibb.co/hVM4X2p/app-store.png" alt="" />
-                </div>
-            </div>
-
-            <div class="footer-col-2">
-                <img src="https://i.ibb.co/j3FNGj7/logo-white.png" alt="" />
-                <p>
-                    Our Purpose Is To Sustainably Make the Pleasure and Benefits of
-                    Sports Accessible to the Many.
-                </p>
-            </div>
-
-            <div class="footer-col-3">
-                <h3>Useful Links</h3>
-                <ul>
-                    <li>Coupons</li>
-                    <li>Blog Post</li>
-                    <li>Return Policy</li>
-                    <li>Join Affiliate</li>
-                </ul>
-            </div>
-
-            <div class="footer-col-4">
-                <h3>Follow us</h3>
-                <ul>
-                    <li>Facebook</li>
-                    <li>Twitter</li>
-                    <li>Instagram</li>
-                    <li>YouTube</li>
-                </ul>
-            </div>
-        </div>
-        <hr />
-        <p class="copyright">Copyright &copy; 2021 - Red Store</p>
-    </div>
-</div>
-
-<!-- js for toggle menu -->
-<script>
-    var MenuItems = document.getElementById('MenuItems');
-    MenuItems.style.maxHeight = '0px';
-
-    function menutoggle() {
-        if (MenuItems.style.maxHeight == '0px') {
-            MenuItems.style.maxHeight = '200px';
-        } else {
-            MenuItems.style.maxHeight = '0px';
+<style>
+    /* body {
+            margin: 0;
+            background: #d8f0ea;
         }
+
+        h1, p, span {
+            font-family: monospace;
+            font-weight: 300;
+            text-align: center;
+            color: rgba(0, 0, 0, 0.5);
+        }
+
+            h1, h1 + p {
+                margin: 2rem 1rem;
+            }*/
+
+    .wrapper {
+        max-width: 60rem;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 3rem;
     }
-</script>
+
+    .box {
+        width: 15rem;
+        height: 20rem;
+        padding: 0 2rem 3rem;
+        transition: transform 0.3s linear 0s, filter 0.5s linear 0.3s, opacity 0.5s linear 0.3s;
+        /*transform-origin: top center;*/
+    }
+
+    .product {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        border-radius: 0.2rem;
+        background-image: url(http://alyelshamy-001-site1.atempurl.com/images/860fda59-7676-4e00-8d82-997983e70bdf.jfif);
+        background-color: #fff;
+        background-position: top 3rem center;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        box-shadow: 0 0.1rem 0.2rem rgba(0, 0, 0, 0.1);
+        transition: box-shadow 0.5s linear, height 0.1s linear 0s;
+    }
+
+    .name {
+        display: block;
+        padding: 1rem 0.5rem;
+    }
+
+    .description {
+        position: absolute;
+        bottom: 1rem;
+        left: 0;
+        right: 0;
+        display: block;
+        padding: 0 1.5rem;
+        opacity: 0;
+        transition: opacity 0.1s linear 0s;
+    }
+
+    .wrapper:hover .box:not(:hover) {
+        filter: blur(3px);
+        opacity: 0.5;
+    }
+
+    .box:hover {
+        transform: scale(1.1);
+        transition: transform 0.3s linear 0.3s, filter 0.1s linear 0s, opacity 0.1s linear 0s;
+    }
+
+        .box:hover .product {
+            height: 23rem;
+            box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+            transition: box-shadow 1s linear, height 0.3s linear 0.5s;
+        }
+
+        .box:hover .description {
+            opacity: 1;
+            transition: opacity 0.3s linear 0.75s;
+        }
+</style>
